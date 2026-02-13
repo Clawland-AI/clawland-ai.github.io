@@ -1,0 +1,13 @@
+title: Clawland
+description: "Edge AI for Everyone — Open-source AI Agents from $2 MCU to Cloud"
+baseurl: ""
+url: "https://clawland-ai.github.io"
+theme: minima
+markdown: kramdown
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
