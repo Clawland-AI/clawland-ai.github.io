@@ -11,6 +11,8 @@ Clawland is an open-source ecosystem of AI Agents that run on hardware from $2 m
 
 ## Quick Start
 
+中文文档: [中文首页](./src/pages/zh/index.md) / [快速开始](./src/pages/zh/quick-start.md) / [贡献指南](./src/pages/zh/contributing.md) / [API 概览](./src/pages/zh/api.md)
+
 ### Choose Your Agent
 
 | If you have... | Use... | Get started |
