@@ -14,6 +14,10 @@ bundle exec jekyll serve
 
 Then open http://localhost:4000
 
+## Translation
+
+- [Chinese translation style guide](./docs/zh-CN-translation-guide.md)
+
 ## License
 
 Content is licensed under CC BY-SA 4.0.
