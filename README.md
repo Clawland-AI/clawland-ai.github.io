@@ -4,6 +4,14 @@ Source for [clawland-ai.github.io](https://clawland-ai.github.io) — the Clawla
 
 Built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
 
+## Chinese Documentation
+
+- [中文首页](README.zh-CN.md)
+- [快速开始](QUICKSTART.zh-CN.md)
+- [API 与 CLI 参考](API.zh-CN.md)
+- [贡献指南](CONTRIBUTING.zh-CN.md)
+- [术语表](GLOSSARY.zh-CN.md)
+
 ## Local Development
 
 ```bash

@@ -31,6 +31,8 @@ Core contributors share 20% of product revenue. [Learn more →](https://github.
 ## Links
 
 - [GitHub Organization](https://github.com/Clawland-AI)
+- [中文文档](README.zh-CN.md)
+- [中文快速开始](QUICKSTART.zh-CN.md)
 - [Contributing Guide](https://github.com/Clawland-AI/.github/blob/main/CONTRIBUTING.md)
 - [Governance](https://github.com/Clawland-AI/.github/blob/main/GOVERNANCE.md)
 - [Discussions](https://github.com/orgs/Clawland-AI/discussions)
